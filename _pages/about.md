@@ -12,8 +12,7 @@ I am a third-year Linguistics Ph.D. student, currently pursuing a Graduate Progr
 
 I am a current Google's Computer Science Research Mentorship Program Scholar (2023a cohort). I have spent Summer'22 as a Knowledge Engineer Intern at Amazon Alexa AI and will be returning to Amazon for Summer'23. This year, I participate at the Amazon Alexa Prize SocialBot Grand Challenge 5 as a part of GauchoChat team. 
 
-**I am seeking a research-focused industry internship for Summer'24 in NYC.  
-**
+**I am seeking a research-focused industry internship for Summer'24 in NYC.**
 
 
 
