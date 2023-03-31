@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Marina Zhukova"
 title_separator          : "-"
 name                     : &name "Marina Zhukova"
-description              : &description "Linguistics PhD student at the University of California, Santa Barbara"
-url                      : https://mzhukovaucsb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD student at the University of California, Santa Barbara"
+url                      : https://mzhukovauscb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mzhukovaucsb.github.io"
+repository               : "mzhukovauscb.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marina Zhukova"
   avatar           : "marinazhukova.png"
-  bio              : "Linguistics PhD student at the University of California, Santa Barbara"
+  bio              : "PhD student at the University of California, Santa Barbara"
   location         : 
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/mzhukovaucsb"
+  github           : "mv_zhukova"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "mv_zhukova"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
