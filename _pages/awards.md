@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Awards"
+title: "Fellowships, Grants, Awards"
 permalink: /awards/
 author_profile: true
 ---
-Fellowships, Grants, Awards
-======
 * OneReach.ai Academic Fellowship, Jan 2023
 * Alexa Prize Socialbot Grand Challenge 5 Grant (PI: Xifeng Yan), Nov 2022
 * National Institute for Japanese Language and Linguistics Grant, Nov 2022
