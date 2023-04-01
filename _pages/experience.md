@@ -52,5 +52,5 @@ Skills
 * Expertise: Natural Language Processing, Conversational AI, Linguistics.
 * Programming: Python (NLTK, PyTorch, pandas, Tensorflow), R, Markdown, SQL, HTML, git, LaTeX.
 * Data skills: prompt engineering, data collection, annotation, processing and visualization, statistical analysis, experimental design, survey design, eye-tracking.
-* Project skills: project management, technical prgram management, customer research, quantitative & qualitative research.
+* Project skills: project management, technical program management, customer research, quantitative & qualitative research.
 * Languages: English (near native), Russian (native), French (fluent), Spanish (intermediate), Czech (intermediate), Hebrew (beginner).
