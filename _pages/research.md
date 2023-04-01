@@ -7,8 +7,7 @@ author_profile: true
 
 Linguistic Code-Switching
 ======
-Kar, S., Winata, G., Zhukova, M. (2022). Code-Switching and Multilinguality NLP (BoF Session). Invited
-speaker: EMNLP 2022, Abu Dhabi, UAE.
+* Kar, S., Winata, G., Zhukova, M. (2022). Code-Switching and Multilinguality NLP (BoF Session). Invited speaker: EMNLP 2022, Abu Dhabi, UAE.
 * Zhukova, M., Kor Chahine I., Uetova E. (2019). Some Trends in the Assimilation of Syntax in the
 French-Speaking Environment: on the Material of the RLC Corpus. Poster: ”Russian language in the
 multilingual world” Conference, HSE University, Moscow, Russia.
