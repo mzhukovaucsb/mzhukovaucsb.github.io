@@ -1,8 +1,10 @@
 ---
 layout: archive
 permalink: /experience/
+title: "Resume"
 author_profile: true
 ---
+
 Education
 ======
 * Ph.D in Linguistics, University of California, Santa Barbara, 2020 - 2025 (exp.)
