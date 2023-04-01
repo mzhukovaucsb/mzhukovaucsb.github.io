@@ -18,7 +18,7 @@ Service
   * Member, Mentor, Invited Speaker (Special Events) 
 * UCSB Beyond Academia 2022 Conference, Jun 2021 – Apr 2022
   * Member, Programming Committee 
-* UCSB American Association of University Women,Sep 2020 – Jun 2021
+* UCSB American Association of University Women, Sep 2020 – Jun 2021
   * Member, Mentor, Invited Speaker (Special Events)
 
 Volunteering
