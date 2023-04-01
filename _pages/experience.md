@@ -23,6 +23,7 @@ Experience
 
 * Amazon Alexa Prize SocialBot Grand Challenge 5, Fall'22-Spring'23
   * Team Member, GauchoChat Team
+  * Advisor: Xifeng Yan
 
 * Amazon Alexa AI, Summer'22
   * Knowledge Engineer Intern, Info Entertainment Team
