@@ -11,7 +11,7 @@ Education
 * UC Inter-Campus Exchange Program, University of California, Los Angeles, 2021
 * B.A. in Linguistics, HSE University, 2020
 
-Experience
+Work & Research Experiences
 ======
 * Amazon Alexa AI, Summer'23
   * Knowledge Engineer Intern, Info Entertainment Team (returning)
@@ -44,3 +44,11 @@ Professional Development
 * Computer Science Research Mentorship Program, Google Research, 2023
 * Grace Hopper Celebration 2022 Conference, 2022
 * Product Management for Linguists, Linguistics Career Launch, 2021
+
+Skills
+======
+* Expertise: Natural Language Processing, Conversational AI, Linguistics.
+* Programming: Python (NLTK, PyTorch, pandas, Tensorflow), R, Markdown, SQL, HTML, git, LaTeX.
+* Data skills: Data collection, data annotation, data processing, data visualization, statistical analysis, experiment design, survey design, eye-tracking.
+* Project skills: project management, technical prgram management, quantitative & qualitative research.
+* Languages: English (near native), Russian (native), French (fluent), Spanish (intermediate), Czech (intermediate), Hebrew (beginner).
