@@ -31,7 +31,7 @@ Work & Research Experiences
 
 * University of California, Santa Barbara, Fall'21 - Winter'23
   * Graduate Teaching Assistant, Department of Linguistics
-  * LING 15, LING 20, LING 70, LING 102, LING 110
+  * Courses: LING 15, LING 20, LING 70, LING 102, LING 110
 
 * University of California, Santa Barbara, Fall'21 - Present
   * Graduate Student Researcher, CPLS Lab
@@ -51,6 +51,6 @@ Skills
 ======
 * Expertise: Natural Language Processing, Conversational AI, Linguistics.
 * Programming: Python (NLTK, PyTorch, pandas, Tensorflow), R, Markdown, SQL, HTML, git, LaTeX.
-* Data skills: Data collection, data annotation, data processing, data visualization, statistical analysis, experiment design, survey design, eye-tracking.
+* Data skills: data collection, annotation, processing and visualization, statistical analysis, experimental design, survey design, eye-tracking.
 * Project skills: project management, technical prgram management, quantitative & qualitative research.
 * Languages: English (near native), Russian (native), French (fluent), Spanish (intermediate), Czech (intermediate), Hebrew (beginner).
