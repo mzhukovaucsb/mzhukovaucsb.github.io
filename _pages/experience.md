@@ -8,8 +8,8 @@ author_profile: true
 Education
 ======
 * Ph.D in Linguistics, University of California, Santa Barbara, 2020 - 2025 (exp.)
-* M.A. in Linguistics, University of California, Santa Barbara, 2022
 * Graduate Program in Management Practice Certificate, University of California, Santa Barbara, 2023 (exp.)
+* M.A. in Linguistics, University of California, Santa Barbara, 2022
 * UC Inter-Campus Exchange Program, University of California, Los Angeles, 2021
 * B.A. in Linguistics, HSE University, 2020
 
