@@ -14,7 +14,7 @@ Teaching Assistant: University of California, Santa Barbara, 2021-2025
 * LING 110, Computational Linguistics
 * LING 127, Psychology of Language
 
-Guest Lectures: University of California, Santa Barbara, 2021-2022
+Guest Lectures: University of California, Santa Barbara, 2021-2025
 ======
 * LING 102, Programming for Linguists
 * LING 110, Computational Linguistics
