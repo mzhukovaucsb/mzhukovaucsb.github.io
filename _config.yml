@@ -86,7 +86,7 @@ author:
   location         : "Santa Barbara, CA (USA)"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #  "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ixJbJboAAAAJ&hl=en"
   email            : "mzhukova@ucsb.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "mzhukovaucsb"
-  google_plus      :
+  google_plus      : 
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
