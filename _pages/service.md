@@ -10,7 +10,7 @@ Peer Review
 * CALCS 2023 (EMNLP Workshop)
 * Language in Society
 * ICWSM 2024
-* CHI 2024. 
+* CHI 2024
 
 Service
 ======
