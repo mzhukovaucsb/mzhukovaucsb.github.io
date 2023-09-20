@@ -6,7 +6,11 @@ author_profile: true
 ---
 Peer Review
 ======
-* ISGS 2022, CALCS 2023 (EMNLP Workshop), Language in Ssociety, ICWSM 2024, CHI 2024. 
+* ISGS 2022
+* CALCS 2023 (EMNLP Workshop)
+* Language in Society
+* ICWSM 2024
+* CHI 2024. 
 
 Service
 ======
