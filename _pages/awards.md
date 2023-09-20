@@ -15,7 +15,7 @@ author_profile: true
 * The Holly Jennings Award, May 2022
 * ISGS 2022 Student Travel Stipend, May 2022
 * UCSB Department of Linguistics Travel Grant to attend SLA Conference Mar 2022
-* UCSB Department of Linguistics Professional Development Grant for Product Management for Linguists course, Jun 2021
+* UCSB Department of Linguistics Professional Development Grant for Product Management for Linguists, Jun 2021
 * UCSB Individualized Professional Skills Grant Program Award for Lingusitics Career Launch bootcamp, May 2021
 * UCSB Individualized Professional Skills Grant Program Award for ImaginePhD course, Oct 2020
 * UCSB Department of Linguistics Travel Grant, Sep 2020
