@@ -15,3 +15,14 @@ I participated in Google's Computer Science Research Mentorship Program (2023a c
 I am skilled in Conversational AI, Research, and Product Management and committed to applying these skills to the advancement of innovative technologies. 
 
 **I am currently looking for a Summer'24 Internship (remote/NYC/Bay Area/Seattle).**
+
+
+**Featured In**
+
+<a href="https://onereach.ai/harnessing-conversational-ai-for-breakthroughs-in-academic-research/">Harnessing Conversational AI for Breakthroughs in Academic Research</a> (featured by **OneReach.ai**)
+<a href="[https://www.amazon.science/alexa-prize/teams/gauchochat-2022](https://www.amazon.science/alexa-prize/socialbot-grand-challenge/2022
+)">GauchoChat Team</a> (featured by **Amazon Science**)
+
+
+
+
