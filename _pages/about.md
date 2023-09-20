@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D student in the Department of Linguistics at the University of California, Santa Barbara. I primarily work with Professor Simon Todd (CPLS Lab), Professor Lal Zimman (TRILL Lab), and Professor Laurel Brehm (PRPL Lab). I recently completed UCSB College of Engeineering Graduate Program in Management Practice Certificate. My research focuses on conversational AI, computational linguistics, and sociocultural linguistics. 
+I am a fourth-year Ph.D student in the Department of Linguistics at the University of California, Santa Barbara. I primarily work with Professor Simon Todd (CPLS Lab), Professor Lal Zimman (TRILL Lab), and Professor Laurel Brehm (PRPL Lab). I recently completed UCSB College of Engineering Graduate Program in Management Practice Certificate.  
 
 I participated in Google's Computer Science Research Mentorship Program (2023a cohort) and will be attending Google's Product Inclusion & Equity Summit in October 2023. I am a current OneReach.ai Academic Fellow. I have spent Summer 2022 and Summer 2023 as a Knowledge Engineer Intern at Amazon Alexa AI. I also won the Amazon Alexa Prize SocialBot Grand Challenge 5 as part of the GauchoChat team.
+
+I am skilled in Conversational AI, Research, and Product Management and committed to applying these skills to the advancement of innovative technologies. 
 
 **I am currently looking for a internship for Summer'24 (hybrid option/NYC).**
