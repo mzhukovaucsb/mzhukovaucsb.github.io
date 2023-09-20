@@ -14,4 +14,4 @@ I participated in Google's Computer Science Research Mentorship Program (2023a c
 
 I am skilled in Conversational AI, Research, and Product Management and committed to applying these skills to the advancement of innovative technologies. 
 
-**I am currently looking for a internship for Summer'24 (hybrid option/NYC).**
+**I am currently looking for a Summer'24 Internship (remote/NYC/Bay Area/Seattle).**
