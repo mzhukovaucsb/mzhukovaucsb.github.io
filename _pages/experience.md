@@ -40,6 +40,7 @@ Work & Research Experiences
 Professional Development
 ======
 * Product Inclusion & Equity Summit, Google, 2023
+* PhD Fellowship Summit, Google Research, 2023
 * Computer Science Research Mentorship Program, Google Research, 2023
 * Grace Hopper Celebration 2022 Conference, 2022
 * Product Management for Linguists, Linguistics Career Launch & Google, 2021
