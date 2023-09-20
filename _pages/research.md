@@ -5,20 +5,28 @@ permalink: /research/
 author_profile: true
 ---
 
+Conversational AI
+======
+* Wang H., Wang W., Saini R., Zhukova M., Yan X. (2023). GauchoChat: Towards Proactive, Controllable, and Personalized Social Conversation. In Alexa Prize SocialBot Grand Challenge 5 Proceedings.
+
 Linguistic Code-Switching
 ======
 * Kar, S., Winata, G., Zhukova, M. (2022). Code-Switching and Multilinguality NLP (BoF Session). Invited speaker: EMNLP 2022, Abu Dhabi, UAE.
-* Zhukova, M., Kor Chahine I., Uetova E. (2019). Some Trends in the Assimilation of Syntax in the
-French-Speaking Environment: on the Material of the RLC Corpus. Poster: ”Russian language in the
-multilingual world” Conference, HSE University, Moscow, Russia.
+* Zhukova, M., Kor Chahine I., Uetova E. (2019). Some Trends in the Assimilation of Syntax in the French-Speaking Environment: on the Material of the RLC Corpus. Poster: ”Russian language in the multilingual world” Conference, HSE University, Moscow, Russia.
 
-Perception and Interpretation of Emoji
+Perception and Interpretation of Emojis
 ======
 * Zhukova, M. (2023). Drawing Parallels Between Emblems And Emoji: A Thumbs-up Case Study. Poster: 1st International Multimodal Communication Symposium (MMSYM), Pompeu Fabra University, Barcelona, Spain.
 * Zhukova, M. (2023). Emoji And Identity Perception. Invited talk: International Multimodal Communication Centre (IMCC), University of Oxford, Oxford, UK.
 * Zhukova, M. (2023). Exploring Legal Interpretation of Emoji. Invited talk: Visual Language Lab, Tilburg University, Tilburg, NL.
 * Zhukova, M. (2022). Emoji Gestures As an Extension of Gestures in Digital Communication: Creation and Documentation of the Dataset ”Gesture Emoji: Use in Twitter” for Russian and English. Poster: 9th Conference of the International Society for Gesture Studies (ISGS 9), IL, USA.
 * Zhukova, M. (2022). Aspects of Self-Expression in Twitter via Gendered and Skin Tone Modified Emoji. Talk: Society for Linguistic Anthropology 2022 Spring Conference, University of Colorado, Boulder, CO, USA.
+
+Inclusive Language
+======
+* Bedin C., Benesh M., Conrod K., Zhukova, M., Zimman L. (Accepted, Jan 2024). The gender question: Current best practices for asking about sex/gender in linguistic research. Organized session. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
+* Zhukova, M. (Accepted, Nov 2023). Under erasure: Linguistic innovations in response to anti-LGBTQIA+ laws in Russia. Talk. Organized session "Trans Linguistic Logics: Spatial and Embodied Epistemologies Across Modalities". AAA/CASCA 2023 Annual Meeting. Toronto, Canada.
+* Bedin C., Zhukova, M., Zimman L. (Accepted, Oct 2023). Operationalizing gender: Methods for statistical modeling of open-response demographic data. Talk. The 51st Annual New Ways of Analyzing Variation Conference. NYC, NY.
 
 Co-Speech Gestures
 ======
@@ -30,7 +38,7 @@ Co-Speech Gestures
 
 Lexical Typology, Motion Events
 ======
-* Zhukova, M. (2022).Constructions with Verbs of Motion in Russian: Gestural Patterns. Poster: 9th Conference of the International Society for Gesture Studies (ISGS 9), IL, USA.
+* Zhukova, M. (2022).Constructions with Verbs of Motion in Russian: Gestural Patterns. Poster: 9th Conference of the International Society for Gesture Studies (ISGS 9), IL, USA. x
 * Zhukova, M., Kor Chahine I. (2020). Frantsuzskiy Glagol TOMBER i Yego Sinonimy: Sverkhu Vniz i Ne
 Tol’ko [French verb TOMBER and its synonyms: from top to bottom and other cases]. Acta Linguistica
 Petropolitana, XVI (1), Typology of the verbs of falling, Institute for Linguistic Studies, Russian Academy of Sciences, pp.225-247. 
@@ -41,8 +49,10 @@ Philological Conference, Saint Petersburg State University, Saint Petersburg , R
 * Zhukova, M. (2019). Evaluative Adjectives in Czech: a Corpus-Based Study. Poster: Summer School of
 Linguistics, Charles University, Czech Republic.
 
-Invited Talks
+Tutorials/Career Development Talks 
 ======
+* Johnston A., Zhukova, M. (Accepted, Jan 2024). Securing an internship, contract work and part-time jobs during your degree program: A practical guide for linguistics students & faculty advisors. Organized session. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Zhukova, M. (2023). IPS Meet And Eat: Sharing My GhC’22 Experience. Invited talk: Individualized
 Professional Skills (IPS) Program, UC Santa Barbara, CA, USA.
 * Zhukova, M. (2022). Workshop Tutorial on LATEX. Invited talk: Computation and Experiments In Linguistics Group (CEILing), UC Santa Barbara, CA, USA.
+
