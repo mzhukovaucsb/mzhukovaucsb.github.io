@@ -16,6 +16,7 @@ Linguistic Code-Switching
 
 Perception and Interpretation of Emojis
 ======
+* Zhukova, M., Brehm, L. (Accepted, Jan 2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Poster. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Zhukova, M. (2023). Drawing Parallels Between Emblems And Emoji: A Thumbs-up Case Study. Poster: 1st International Multimodal Communication Symposium (MMSYM), Pompeu Fabra University, Barcelona, Spain.
 * Zhukova, M. (2023). Emoji And Identity Perception. Invited talk: International Multimodal Communication Centre (IMCC), University of Oxford, Oxford, UK.
 * Zhukova, M. (2023). Exploring Legal Interpretation of Emoji. Invited talk: Visual Language Lab, Tilburg University, Tilburg, NL.
@@ -24,6 +25,7 @@ Perception and Interpretation of Emojis
 
 Inclusive Language
 ======
+* Bedin C., Benesh M., Zhukova, M., Zimman L. (Accepted, Jan 2024).Current norms and best practices for collecting and representing sex/gender in linguistics: Towards ethical and inclusive methodologies. Talk. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Bedin C., Benesh M., Conrod K., Zhukova, M., Zimman L. (Accepted, Jan 2024). The gender question: Current best practices for asking about sex/gender in linguistic research. Organized session. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Zhukova, M. (Accepted, Nov 2023). Under erasure: Linguistic innovations in response to anti-LGBTQIA+ laws in Russia. Talk. Organized session "Trans Linguistic Logics: Spatial and Embodied Epistemologies Across Modalities". AAA/CASCA 2023 Annual Meeting. Toronto, Canada.
 * Bedin C., Zhukova, M., Zimman L. (Accepted, Oct 2023). Operationalizing gender: Methods for statistical modeling of open-response demographic data. Talk. The 51st Annual New Ways of Analyzing Variation Conference. NYC, NY.
