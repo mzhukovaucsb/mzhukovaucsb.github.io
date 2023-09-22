@@ -16,8 +16,9 @@ I am skilled in Conversational AI, Research, and Product Management and committe
 
 **I am currently looking for a Summer'24 Internship (remote/NYC/Bay Area/Seattle).**
 
-**Featured in** <a href="https://onereach.ai/harnessing-conversational-ai-for-breakthroughs-in-academic-research/">Harnessing Conversational AI for Breakthroughs in Academic Research</a> (featured by OneReach.ai) and <a href="[https://www.amazon.science/alexa-prize/teams/gauchochat-2022](https://www.amazon.science/alexa-prize/socialbot-grand-challenge/2022
-)">GauchoChat Team</a> (featured by Amazon Science)
+**Featured in** <a href="https://onereach.ai/harnessing-conversational-ai-for-breakthroughs-in-academic-research/">Harnessing Conversational AI for Breakthroughs in Academic Research</a> (featured by OneReach.ai), <a href="https://www.amazon.science/alexa-prize/teams/gauchochat-2022"> GauchoChat Team </a> (featured by Amazon Science), and <a href="https://uxmag.com/articles/ai-as-a-research-participant-tips-tools-and-techniques"> AI as a Research Participant: Tips, Tools, and Techniques</a> (featured by UX Magazine)
+
+
 
 
 
