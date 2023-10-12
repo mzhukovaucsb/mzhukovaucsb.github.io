@@ -4,7 +4,8 @@ title: "Fellowships, Grants, Awards"
 permalink: /awards/
 author_profile: true
 ---
-* Graduate Scholars Program Mentor Stipend,Oct 2023
+* Laguna Blanca School Science Research Program Mentor Stipend, Oct 2023
+* Graduate Scholars Program Mentor Stipend, Oct 2023
 * UCSB Individualized Professional Skills Grant Program Award for Google's PI&E Summit, Oct 2023
 * Alexa Prize Socialbot Grand Challenge 5 1st Overall Prize(PI: Xifeng Yan; $250,000), Sep 2023
 * UCSB Department of Linguistics Professional Development Grant, Aug 2023
