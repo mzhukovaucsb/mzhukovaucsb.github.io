@@ -7,9 +7,9 @@ author_profile: true
 
 Teaching Assistant: University of California, Santa Barbara, 2021-2025
 ======
-* LING 15, Language and Life
-* LING 20, Language and Linguistics 
-* LING 70, Language and Society
+* LING 15, Language and Life 
+* LING 20, Language and Linguistics (twice)
+* LING 70, Language and Society (twice)
 * LING 102, Programming for Linguists
 * LING 110, Computational Linguistics
 * LING 127, Psychology of Language
