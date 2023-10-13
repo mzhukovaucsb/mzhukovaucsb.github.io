@@ -51,11 +51,3 @@ Philological Conference, Saint Petersburg State University, Saint Petersburg , R
 * Zhukova, M. (2019). Evaluative Adjectives in Czech: a Corpus-Based Study. Poster: Summer School of
 Linguistics, Charles University, Czech Republic.
 
-Tutorials/Career Development Talks 
-======
-* Johnston A., Zhukova, M. (Accepted, Jan 2024). Securing an internship, contract work and part-time jobs during your degree program: A practical guide for linguistics students & faculty advisors. Organized session. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
-* Zhukova, M. (2023). Google CSRMP Alumni Panel. Invited speaker: Google CSRMP Program. Online. 
-* Zhukova, M. (2023). IPS Meet And Eat: Sharing My GhC’22 Experience. Invited talk: Individualized
-Professional Skills (IPS) Program, UC Santa Barbara, CA, USA.
-* Zhukova, M. (2022). Workshop Tutorial on LATEX. Invited talk: Computation and Experiments In Linguistics Group (CEILing), UC Santa Barbara, CA, USA.
-
