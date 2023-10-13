@@ -19,7 +19,7 @@ Guest Lectures: University of California, Santa Barbara, 2021-2025
 * LING 102, Programming for Linguists
 * LING 110, Computational Linguistics
 
-Mentor, 2023-2024
+Mentoring
 ======
 * LSA 2024, Pop-Up Mentoring Program Mentor (mentoring undergraduate students), 2024
 * LSA 2024, Pop-Up Mentoring Program Co-Organizer (co-organizing the mentoring event, mentor/mentee matchmaking), 2024
