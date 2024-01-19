@@ -5,8 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-Conversational AI
+Conversational AI and Large Language Models
 ======
+* Zhukova M. (2023). AI as a Research Participant: Tips, Tools, and Techniques. UX Magazine. 
 * Wang H., Wang W., Saini R., Zhukova M., Yan X. (2023). GauchoChat: Towards Proactive, Controllable, and Personalized Social Conversation. Amazon Science. In Alexa Prize SocialBot Grand Challenge 5 Proceedings.
 
 Linguistic Code-Switching
