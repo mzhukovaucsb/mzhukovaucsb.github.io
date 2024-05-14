@@ -20,7 +20,7 @@ Perception and Interpretation of Emojis
 ======
 * Zhukova, M., Brehm, L. (In preparation). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America.
 * Zhukova, M. (2024). Emoji Processing in Conversations Between GenZ Users and Chatbots: An Eye Tracking Study. Invited talk. UC Santa Barbara Department of Linguistics colloquium, Santa Barbara, CA, USA. 
-* Zhukova, M., Brehm, L., S.Todd (2024). How Do GenZ Users Process Chatbot Memory Lapses? An Eye Tracking Study. Poster. CAMP6 (California Meeting on Psycholinguistics), Stanford University, Palo Alto, CA, USA. 
+* Zhukova, M., Brehm, L., Todd S. (2024). How Do GenZ Users Process Chatbot Memory Lapses? An Eye Tracking Study. Poster. CAMP6 (California Meeting on Psycholinguistics), Stanford University, Palo Alto, CA, USA. 
 * Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Poster. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Zhukova, M. (2023). Drawing Parallels Between Emblems And Emoji: A Thumbs-up Case Study. Poster: 1st International Multimodal Communication Symposium (MMSYM), Pompeu Fabra University, Barcelona, Spain.
 * Zhukova, M. (2023). Emoji And Identity Perception. Invited talk: International Multimodal Communication Centre (IMCC), University of Oxford, Oxford, UK.
