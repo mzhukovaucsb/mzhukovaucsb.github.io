@@ -14,7 +14,7 @@ I participated in Google's Computer Science Research Mentorship Program (2023a c
 
 I am skilled in Generative AI, Customer Research, and Product Management and excited to apply these skills to the advancement of innovative technologies!
 
-**I am currently looking for a Summer'24 Internship.**
+**I am currently looking for a Full-Time roles starting June 2025.**
 
 **Featured in** <a href="https://www.linguisticscareercast.com/podcast/episode-38-marina-zhukova/"> Linguistics Careercast </a> (podcast episode), <a href="https://onereach.ai/harnessing-conversational-ai-for-breakthroughs-in-academic-research/">Harnessing Conversational AI for Breakthroughs in Academic Research</a> (OneReach.ai), <a href="https://www.amazon.science/alexa-prize/teams/gauchochat-2022"> GauchoChat Team </a> (Amazon Science), and <a href="https://uxmag.com/articles/ai-as-a-research-participant-tips-tools-and-techniques"> AI as a Research Participant: Tips, Tools, and Techniques</a> (UX Magazine)
 
