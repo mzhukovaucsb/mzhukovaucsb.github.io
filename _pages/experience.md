@@ -15,6 +15,9 @@ Education
 
 Work & Research Experiences
 ======
+* Amazon Alexa AGI, Summer'24
+  * Knowledge Engineer Intern, Info Entertainment Team (returning)
+
 * Amazon Alexa AI, Summer'23
   * Knowledge Engineer Intern, Info Entertainment Team (returning)
 
