@@ -47,7 +47,7 @@ Co-Speech Gestures
 
 Lexical Typology, Motion Events
 ======
-* Zhukova, M. (2022).Constructions with Verbs of Motion in Russian: Gestural Patterns. Poster: 9th Conference of the International Society for Gesture Studies (ISGS 9), IL, USA. x
+* Zhukova, M. (2022).Constructions with Verbs of Motion in Russian: Gestural Patterns. Poster: 9th Conference of the International Society for Gesture Studies (ISGS 9), IL, USA. 
 * Zhukova, M., Kor Chahine I. (2020). Frantsuzskiy Glagol TOMBER i Yego Sinonimy: Sverkhu Vniz i Ne
 Tol’ko [French verb TOMBER and its synonyms: from top to bottom and other cases]. Acta Linguistica
 Petropolitana, XVI (1), Typology of the verbs of falling, Institute for Linguistic Studies, Russian Academy of Sciences, pp.225-247. 
