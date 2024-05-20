@@ -18,7 +18,7 @@ Linguistic Code-Switching
 
 Perception and Interpretation of Emojis
 ======
-* Zhukova, M., Brehm, L. (In preparation). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America.
+* Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America.
 * Zhukova, M. (2024). Emoji Processing in Conversations Between GenZ Users and Chatbots: An Eye Tracking Study. Invited talk. UC Santa Barbara Department of Linguistics colloquium, Santa Barbara, CA, USA. 
 * Zhukova, M., Brehm, L., Todd S. (2024). How Do GenZ Users Process Chatbot Memory Lapses? An Eye Tracking Study. Poster. CAMP6 (California Meeting on Psycholinguistics), Stanford University, Palo Alto, CA, USA. 
 * Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Poster. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
@@ -30,7 +30,7 @@ Perception and Interpretation of Emojis
 
 Inclusive Language
 ======
-* Bedin C., Benesh M., Zhukova, M., Zimman L. (In preparation). Current norms and best practices for collecting and representing sex/gender in linguistics: Towards ethical and inclusive methodologies. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America. 
+* Bedin C., Benesh M., Zhukova, M., Zimman L. (2024). Current norms and best practices for collecting and representing sex/gender in linguistics: Towards ethical and inclusive methodologies. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America. 
 * Bedin C., Benesh M., Zhukova, M., Zimman L. (2024).Current norms and best practices for collecting and representing sex/gender in linguistics: Towards ethical and inclusive methodologies. Talk. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Bedin C., Benesh M., Conrod K., Zhukova, M., Zimman L. (2024). The gender question: Current best practices for asking about sex/gender in linguistic research. Organized session. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Zhukova, M. (2023). Under erasure: Linguistic innovations in response to anti-LGBTQIA+ laws in Russia. Talk. Organized session "Trans Linguistic Logics: Spatial and Embodied Epistemologies Across Modalities". AAA/CASCA 2023 Annual Meeting. Toronto, Canada.
