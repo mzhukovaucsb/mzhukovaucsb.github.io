@@ -16,9 +16,9 @@ My goal is to leverage my expertise in generative AI and customer insights to dr
 
 I’m currently seeking full-time opportunities starting June 2025 in LA, the Bay Area, or SF.
 
-When I’m not immersed in technology, you’ll find me enjoying the outdoors—whether hiking, doing yoga, or playing beach volleyball. 
+When I’m not immersed in technology, you’ll find me enjoying the outdoors — whether hiking, running, or playing beach volleyball. 
 
-Let’s connect and explore how I can contribute to your team! 🧗‍♀️🌄
+Let’s connect and explore how I can contribute to your team! 🌄
 
 **I am currently looking for a Full-Time roles starting June 2025.**
 
