@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D Candidate in the Department of Linguistics at the University of California, Santa Barbara and a current OneReach.ai Academic Fellow. I primarily work with Professor Simon Todd (CPLS Lab), Professor Lal Zimman (TRILL Lab), and Professor Laurel Brehm (PRPL Lab). I also recently completed UCSB College of Engineering Graduate Program in Management Practice Certificate.  
+Hello! I’m Marina, a Ph.D. candidate in the Department of Linguistics at the University of California, Santa Barbara, and a OneReach.ai Academic Fellow. My research and work spans around emojis, generative AI, customer research, and human-AI interaction. I recently completed a certificate in Technology Management from UCSB’s College of Engineering, further bridging the gap between cutting-edge technology and practical application 🎓💡
 
-I participated in Google's Computer Science Research Mentorship Program (2023a cohort), Google's PhD Fellowhip Summit, and Google's Product Inclusion & Equity Summit. I have spent Summer 2022,  Summer 2023 (and will spend Summer 2024) as a Knowledge Engineer Intern at Amazon Alexa (Artificial General Intelligence). I also won the Amazon Alexa Prize SocialBot Grand Challenge 5 as part of the GauchoChat team.
+I've had the opportunity to participate in Google’s Computer Science Research Mentorship Program, PhD Fellowship Summit, and Product Inclusion & Equity Summit. My hands-on experience includes three internships at Amazon Alexa, where I contributed to the Artificial General Intelligence team and won the Amazon Alexa Prize SocialBot Grand Challenge 5 as part of the GauchoChat team. 🏆🤖
 
-I am skilled in Generative AI, Customer Research, and Product Management and excited to apply these skills to the advancement of innovative technologies!
+My goal is to leverage my expertise in generative AI and customer insights to drive innovation and deliver impactful solutions. 🌍✨
+
+I’m currently seeking full-time opportunities starting June 2025 in LA, the Bay Area, or SF.
+
+When I’m not immersed in technology, you’ll find me enjoying the outdoors—whether hiking, doing yoga, or playing beach volleyball. 
+
+Let’s connect and explore how I can contribute to your team! 🧗‍♀️🌄
 
 **I am currently looking for a Full-Time roles starting June 2025.**
 
