@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I’m Marina, a Ph.D. candidate in the Department of Linguistics at the University of California, Santa Barbara.
 
-My research and work spans around better understanding emojis, generative AI, and human-AI interaction. I recently completed a certificate in Technology Management from UCSB’s College of Engineering, further bridging the gap between cutting-edge technology and practical application 🎓💡
+My research and work spans around better understanding emojis, generative AI, and human-AI interaction. I recently completed a certificate in Technology Management from UCSB’s College of Engineering, further bridging the gap between cutting-edge technology and practical application. 🎓💡
 
 I've had the opportunity to participate in Google’s Computer Science Research Mentorship Program, PhD Fellowship Summit, and Product Inclusion & Equity Summit. My hands-on experience includes three internships at Amazon Alexa, where I contributed to the Artificial General Intelligence team and won the Amazon Alexa Prize SocialBot Grand Challenge 5 as part of the GauchoChat team. 🏆🤖
 
