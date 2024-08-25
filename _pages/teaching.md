@@ -13,6 +13,7 @@ Teaching Assistant: University of California, Santa Barbara, 2021-2025
 * LING 102, Programming for Linguists
 * LING 110, Computational Linguistics
 * LING 127, Psychology of Language
+* Will be teaching LING 15, LING 20, LING 70 in 2024-2025 academic year.  
 
 Guest Lectures: University of California, Santa Barbara, 2021-2025
 ======
@@ -28,6 +29,7 @@ Mentoring
 
 Tutorials/Career Development Talks 
 ======
+* Zhukova, M. (2024). Getting an Internship and Using it to Boost Your Career. Panel Facilitator. Lingusitics Career Launch. Online.
 * Zhukova, M. (2024). Podcast "Linguistics Careercast" Episode on Internships. <a href="https://www.linguisticscareercast.com/podcast/episode-38-marina-zhukova/"> Linguistics Careercast </a> 
 * Johnston A., Zhukova, M. (2024). Securing an internship, contract work and part-time jobs during your degree program: A practical guide for linguistics students & faculty advisors. Organized session. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Zhukova, M. (2023). Google CSRMP Alumni Panel. Invited speaker: Google CSRMP Program. Online. 
