@@ -11,12 +11,13 @@ Peer Review
 * Language in Society
 * ICWSM 2024
 * WAIL 2024
+* Journal of Computational Social Science
 
 Service
 ======
 * UCSB Department of Linguistics, Jan 2023
   * Panelist, UCSB Linguistics Student Panel, Open House 
-* UCSB Department of Linguistics, Jul 2022 – Present
+* UCSB Department of Linguistics, Jul 2022 – Jun 2023
   * Graduate Student Representative 
 * Linguistic Society of America, Jul 2021 – Present
   * Member, Committee on Gender Equity in Linguistics 
@@ -29,8 +30,8 @@ Service
 
 Volunteering
 ======
-* Amazon Santa Barbara, Summer 2022, 2023
-  * Volunteer (Glamazon, Graphiq4good) 
+* Amazon Santa Barbara, Summer 2022, 2023, 2024
+  * Volunteer (Glamazon, Graphiq4good, Girls Inc.) 
 * EMNLP, 2021
   * Volunteer (Section Monitoring) 
 * LSA Annual Meeting, 2021
