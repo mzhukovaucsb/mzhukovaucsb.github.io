@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. candidate in the Department of Linguistics at the University of California, Santa Barbara, with a focus on digital communication and human-AI interaction. I recently earned a Technology Management certificate from UCSB’s College of Engineering. 🎓💡
+🎓 I am a Ph.D. candidate in the Department of Linguistics at the University of California, Santa Barbara, focusing on digital communication and human-AI interaction. I recently earned a Technology Management certificate from UCSB’s College of Engineering. 
 
-🤖 ex-Amazon: I completed three internships at Amazon AGI and won the Amazon Alexa Prize SocialBot Grand Challenge 5 as a part of GauchoChat team. 🏆🤖
+🤖 ex-Amazon: I completed 3 internships at Amazon AGI and won the Amazon Alexa Prize SocialBot Grand Challenge 5 as a part of GauchoChat team. 
 
-🔍 Google Fellow: I participated in multiple events organized by Google and Google Research: Research@NYC, Computer Science Research Mentorship Program, PhD Fellowship Summit, Product Inclusion & Equity Summit.
+🔍 Google Fellow: I was selected to in multiple events organized by Google: Research@NYC, Computer Science Research Mentorship Program, PhD Fellowship Summit, Product Inclusion & Equity Summit.
 
-I am passionate about leveraging my expertise in language, generative AI, and customer research to drive innovation and create impactful solutions!
+💡 I am passionate about leveraging my expertise in language, generative AI, and customer research to drive innovation and create impactful solutions!
 
 **I am currently seeking full-time opportunities starting July 1, 2025 in Los Angeles, Bay Area, or San Francisco.**
 
