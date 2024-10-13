@@ -42,7 +42,7 @@ Work & Research Experiences
 
 Professional Development
 ======
-* Research@NYC, Google Research, 2023
+* Research@NYC, Google Research, 2024
 * Product Inclusion & Equity Summit, Google, 2023
 * PhD Fellowship Summit, Google Research, 2023
 * Computer Science Research Mentorship Program, Google Research, 2023
