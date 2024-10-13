@@ -16,7 +16,7 @@ redirect_from:
 
 💡 I am passionate about leveraging my expertise in language, generative AI, and customer research to drive innovation and create impactful solutions!
 
-**I am currently seeking full-time opportunities starting July 1, 2025 in Los Angeles, Bay Area, or San Francisco.**
+**I am currently seeking full-time opportunities starting July 1, 2025 in Bay Area, San Francisco, or New York City.**
 
 **Featured in** <a href="https://www.linguisticscareercast.com/podcast/episode-38-marina-zhukova/"> Linguistics Careercast </a> (podcast episode), <a href="https://onereach.ai/harnessing-conversational-ai-for-breakthroughs-in-academic-research/">Harnessing Conversational AI for Breakthroughs in Academic Research</a> (OneReach.ai), <a href="https://www.amazon.science/alexa-prize/teams/gauchochat-2022"> GauchoChat Team </a> (Amazon Science), and <a href="https://uxmag.com/articles/ai-as-a-research-participant-tips-tools-and-techniques"> AI as a Research Participant: Tips, Tools, and Techniques</a> (UX Magazine)
 
