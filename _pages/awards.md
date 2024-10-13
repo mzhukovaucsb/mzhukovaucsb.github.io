@@ -4,6 +4,8 @@ title: "Fellowships, Grants, Awards"
 permalink: /awards/
 author_profile: true
 ---
+* UCSB Individualized Professional Skills Grant Program Award for Google's Researh@ Summit, Oct 2024
+* Graduate Scholars Program Mentor Stipend, Oct 2024
 * Graduate Scholars Program Mentor Stipend, Oct 2023
 * UCSB Individualized Professional Skills Grant Program Award for Google's PI&E Summit, Oct 2023
 * Alexa Prize Socialbot Grand Challenge 5 1st Overall Prize(PI: Xifeng Yan; $250,000), Sep 2023
