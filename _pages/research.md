@@ -7,6 +7,10 @@ author_profile: true
 
 Conversational AI and Large Language Models
 ======
+* Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America.
+* Zhukova, M. (2024). Emoji Processing in Conversations Between GenZ Users and Chatbots: An Eye Tracking Study. Invited talk. UC Santa Barbara Department of Linguistics colloquium, Santa Barbara, CA, USA. 
+* Zhukova, M., Brehm, L., Todd S. (2024). How Do GenZ Users Process Chatbot Memory Lapses? An Eye Tracking Study. Poster. CAMP6 (California Meeting on Psycholinguistics), Stanford University, Palo Alto, CA, USA. 
+* Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Poster. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Zhukova M. (2023). AI as a Research Participant: Tips, Tools, and Techniques. UX Magazine. 
 * Wang H., Wang W., Saini R., Zhukova M., Yan X. (2023). GauchoChat: Towards Proactive, Controllable, and Personalized Social Conversation. Amazon Science. In Alexa Prize SocialBot Grand Challenge 5 Proceedings.
 
@@ -38,7 +42,7 @@ Inclusive Language
 
 Co-Speech Gestures
 ======
-* Zhukova, M. (Forthcoming). Language and body in place and space: Discourse of Japanese rock climbing by K. Karaoke. Book Note. Language in Society 53(3). 
+* Zhukova, M. (2024). Language and body in place and space: Discourse of Japanese rock climbing by K. Karaoke. Book Note. Language in Society 53(3). 
 * Zhukova, M. (2022). Expression of Spatial Deixis via Co-Speech Gestures: Discourse Analysis of Motion Events in Russian. Poster: Neglected Aspects of Motion-Event Description 2022, Kyoto University, Kyoto, Japan.
 * Zhukova, M. (2022). Double Self-referential Encoding in Interactive Context:Gestural Patterns for Russian. Poster: 9th Conference of the International Society for Gesture Studies (ISGS 9), IL, USA.
 * Zhukova, M. (2021). Without Saying Anything: How Linguists Study Gestures? Invited talk: Science Slam by EducationUSA Russia, Moscow, RU.
