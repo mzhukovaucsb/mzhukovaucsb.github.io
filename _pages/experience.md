@@ -7,7 +7,7 @@ author_profile: true
 
 Education
 ======
-* Ph.D in Linguistics, University of California, Santa Barbara, 2020 - 2025 (exp.)
+* Ph.D in Linguistics, University of California, Santa Barbara, 2025 
 * Graduate Program in Management Practice Certificate, University of California, Santa Barbara, 2023
 * M.A. in Linguistics, University of California, Santa Barbara, 2022
 * UC Inter-Campus Exchange Program, University of California, Los Angeles, 2021
@@ -15,33 +15,34 @@ Education
 
 Work & Research Experiences
 ======
-* Amazon Alexa AGI, Summer'24
-  * Knowledge Engineer Intern, Info Entertainment Team (returning)
+* Amazon AGI, Summer'24
+  * Knowledge Engineer Intern, Amazon Alexa
 
-* Amazon Alexa AI, Summer'23
-  * Knowledge Engineer Intern, Info Entertainment Team (returning)
+* Amazon AGI, Summer'23
+  * Knowledge Engineer Intern, Amazon Alexa
 
 * University of California, Santa Barbara, Spring'23
   * Graduate Student Researcher, Department of Computer Science
   * Advisor: Xifeng Yan
 
 * Amazon Alexa Prize SocialBot Grand Challenge 5, Fall'22-Spring'23
-  * Team Member, GauchoChat Team
+  * Research Scientist, GauchoChat Team
   * Advisor: Xifeng Yan
 
 * Amazon Alexa AI, Summer'22
-  * Knowledge Engineer Intern, Info Entertainment Team
+  * Knowledge Engineer Intern, Amazon Alexa
 
-* University of California, Santa Barbara, Fall'21 - Present
+* University of California, Santa Barbara, Fall'21 - Spring'25
   * Graduate Teaching Assistant, Department of Linguistics
-  * Courses: LING 15, LING 20, LING 70, LING 102, LING 110
+  * Courses: LING 15, LING 20, LING 70, LING 102, LING 110, LING 127
 
 * University of California, Santa Barbara, Fall'21 - Present
   * Graduate Student Researcher, CPLS Lab, TRILL Lab, PRPL Lab
-  * Advisors: Simon Todd,Lal Zimman, Laurel Brehm
+  * PIs: Simon Todd,Lal Zimman, Laurel Brehm
 
 Professional Development
 ======
+* Research@NYC, Google Research, 2023
 * Product Inclusion & Equity Summit, Google, 2023
 * PhD Fellowship Summit, Google Research, 2023
 * Computer Science Research Mentorship Program, Google Research, 2023
@@ -52,8 +53,8 @@ Professional Development
 
 Skills
 ======
-* Expertise: Conversational AI, Research, Product Management
-* Programming: Python (NLTK, PyTorch, pandas, Tensorflow), R, Markdown, SQL, HTML, git, LaTeX.
+* Expertise: Language, Generative AI, Customer Research
+* Programming: Python, R, JavaScript, Markdown, SQL, HTML, git, LaTeX.
 * Data skills: prompt engineering, data collection, annotation, processing and visualization, statistical analysis, experimental design, survey design, eye-tracking.
-* Project skills: project management, technical product management, customer research, quantitative & qualitative research.
+* Project skills: project management, technical product management, quantitative & qualitative research design.
 * Languages: English (near native), Russian (native), French (fluent), Spanish (intermediate), Czech (intermediate), Hebrew (beginner).
