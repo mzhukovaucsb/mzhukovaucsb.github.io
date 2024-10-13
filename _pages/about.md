@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I am a Ph.D. candidate in the Department of Linguistics at the University of California, Santa Barbara. My research focuses on digital communication, human-AI interaction, and inclusive language. I also earned a Technology Management certificate from UCSB’s College of Engineering. 
+🎓 I am a Ph.D. candidate in the Department of Linguistics at the University of California, Santa Barbara. My research focuses on digital communication, human-AI interaction, and inclusive language. I also earned a Graduate Program in Management Practice Certificate by UCSB’s College of Engineering. 
 
 🤖 ex-Amazon: I completed 3 internships at Amazon AGI and won the Amazon Alexa Prize SocialBot Grand Challenge 5 as a part of GauchoChat team. 
 
