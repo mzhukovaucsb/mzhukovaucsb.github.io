@@ -7,13 +7,12 @@ author_profile: true
 
 Teaching Assistant: University of California, Santa Barbara, 2021-2025
 ======
-* LING 15, Language and Life 
-* LING 20, Language and Linguistics (twice)
-* LING 70, Language and Society (twice)
-* LING 102, Programming for Linguists
-* LING 110, Computational Linguistics
-* LING 127, Psychology of Language
-* Will be teaching LING 15, LING 20, LING 70 in 2024-2025 academic year.  
+* LING 15, Language and Life (Spring 2022, Spring 2025)
+* LING 20, Language and Linguistics (Fall 2021, Fall 2023, Fall 2024)
+* LING 70, Language and Society (Winter 2023, Winter 2024, Winter 2025) 
+* LING 102, Programming for Linguists (Fall 2022)
+* LING 110, Computational Linguistics (Winter 2022)
+* LING 127, Psychology of Language (Spring 2024)
 
 Guest Lectures: University of California, Santa Barbara, 2021-2025
 ======
@@ -24,7 +23,7 @@ Mentoring
 ======
 * LSA 2024, Pop-Up Mentoring Program Mentor (mentoring undergraduate students), 2024
 * LSA 2024, Pop-Up Mentoring Program Co-Organizer (co-organizing the mentoring event, mentor/mentee matchmaking), 2024
-* UC Santa Barbara, Graduate Scholars Program Mentor (mentoring 3 graduate students during the academic year), 2023-2024
+* UC Santa Barbara, Graduate Scholars Program Mentor (mentoring 3 graduate students during the academic year), 2023-2024, 2024-2025
 * Laguna Blanca School, Science Research Program Mentor (mentoring 1 high school student during the academic year), 2023-2024
 
 Tutorials/Career Development Talks 
