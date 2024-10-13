@@ -12,7 +12,7 @@ redirect_from:
 
 🤖 ex-Amazon: I completed 3 internships at Amazon AGI and won the Amazon Alexa Prize SocialBot Grand Challenge 5 as a part of GauchoChat team. 
 
-🔍 Google Fellow: I was selected to in multiple events organized by Google: Research@NYC, Computer Science Research Mentorship Program, PhD Fellowship Summit, Product Inclusion & Equity Summit.
+🔍 Google Fellow: I was selected to attend several Google & Google research events: Research@NYC, Computer Science Research Mentorship Program, PhD Fellowship Summit, Product Inclusion & Equity Summit.
 
 💡 I am passionate about leveraging my expertise in language, generative AI, and customer research to drive innovation and create impactful solutions!
 
