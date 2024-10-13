@@ -9,7 +9,7 @@ Peer Review
 * ISGS 2022
 * CALCS 2023 
 * Language in Society
-* ICWSM 2024, ICSWM 2025
+* ICWSM 2024, ICWSM 2025
 * WAIL 2024
 * Journal of Computational Social Science
 
