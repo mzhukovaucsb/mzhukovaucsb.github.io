@@ -7,14 +7,16 @@ author_profile: true
 Peer Review
 ======
 * ISGS 2022
-* CALCS 2023 (EMNLP Workshop)
+* CALCS 2023 
 * Language in Society
-* ICWSM 2024
+* ICWSM 2024, ICSWM 2025
 * WAIL 2024
 * Journal of Computational Social Science
 
 Service
 ======
+* UCSB Department of Linguistics, Sep 2024 - Jun 2025
+  * Mentor
 * UCSB Department of Linguistics, Jan 2023
   * Panelist, UCSB Linguistics Student Panel, Open House 
 * UCSB Department of Linguistics, Jul 2022 – Jun 2023
@@ -33,8 +35,6 @@ Volunteering
 * Amazon Santa Barbara, Summer 2022, 2023, 2024
   * Volunteer (Glamazon, Graphiq4good, Girls Inc.) 
 * EMNLP, 2021
-  * Volunteer (Section Monitoring) 
+  * Volunteer 
 * LSA Annual Meeting, 2021
-  * Volunteer (Section Monitoring)
-* Ural Music Night(Yekaterinburg, RU), 2021
-  * Volunteer (Translation Russian-English) 
+  * Volunteer 
