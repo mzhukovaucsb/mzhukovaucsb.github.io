@@ -25,7 +25,7 @@ Work & Research Experiences
   * Graduate Student Researcher, Department of Computer Science
   * Advisor: Xifeng Yan
 
-* Amazon Alexa Prize SocialBot Grand Challenge 5, Fall'22-Spring'23
+* Amazon Alexa Prize SocialBot Grand Challenge 5, Fall'22 - Spring'23
   * Research Scientist, GauchoChat Team
   * Advisor: Xifeng Yan
 
