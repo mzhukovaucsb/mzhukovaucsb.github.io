@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Conversational AI and Large Language Models
+Generative AI 
 ======
 * Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America.
 * Zhukova, M. (2024). Emoji Processing in Conversations Between GenZ Users and Chatbots: An Eye Tracking Study. Invited talk. UC Santa Barbara Department of Linguistics colloquium, Santa Barbara, CA, USA. 
