@@ -5,8 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-Generative AI 
+Generative AI, Large Language Models, Human-AI Interaction
 ======
+* Winata, G. I., Hudi, F., Irawan, P. A., Anugraha, D., Putri, R. A., Wang, Y., ... & Ngo, C. W. (2024). WORLDCUISINES: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines. arXiv preprint arXiv:2410.12705.
 * Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America.
 * Zhukova, M. (2024). Emoji Processing in Conversations Between GenZ Users and Chatbots: An Eye Tracking Study. Invited talk. UC Santa Barbara Department of Linguistics colloquium, Santa Barbara, CA, USA. 
 * Zhukova, M., Brehm, L., Todd, S. (2024). How Do GenZ Users Process Chatbot Memory Lapses? An Eye Tracking Study. Poster. CAMP6 (California Meeting on Psycholinguistics), Stanford University, Palo Alto, CA, USA. 
@@ -22,6 +23,7 @@ Linguistic Code-Switching
 
 Perception and Interpretation of Emojis
 ======
+* Zhukova, M., & Herring, S. C. (In press, 2024). Benign or Toxic? Differences in Emoji Interpretation by Gender, Generation, and Emoji Type. Language@Internet. Special issue: “Graphicons in Social Media,” edited by Y. Zhang & A. R. Dainas.  
 * Zhukova, M. (2023). Drawing Parallels Between Emblems And Emoji: A Thumbs-up Case Study. Poster: 1st International Multimodal Communication Symposium (MMSYM), Pompeu Fabra University, Barcelona, Spain.
 * Zhukova, M. (2023). Emoji And Identity Perception. Invited talk: International Multimodal Communication Centre (IMCC), University of Oxford, Oxford, UK.
 * Zhukova, M. (2023). Exploring Legal Interpretation of Emoji. Invited talk: Visual Language Lab, Tilburg University, Tilburg, NL.
@@ -36,7 +38,7 @@ Inclusive Language
 * Zhukova, M. (2023). Under erasure: Linguistic innovations in response to anti-LGBTQIA+ laws in Russia. Talk. Organized session "Trans Linguistic Logics: Spatial and Embodied Epistemologies Across Modalities". AAA/CASCA 2023 Annual Meeting. Toronto, Canada.
 * Bedin C., Zhukova, M., Zimman L. (2023). Operationalizing gender: Methods for statistical modeling of open-response demographic data. Talk. The 51st Annual New Ways of Analyzing Variation Conference. NYC, NY.
 
-Co-Speech Gestures
+Miltimodal Discourse, Co-Speech Gestures
 ======
 * Zhukova, M. (2024). Language and body in place and space: Discourse of Japanese rock climbing by K. Karaoke. Book Note. Language in Society 53(3). 
 * Zhukova, M. (2022). Expression of Spatial Deixis via Co-Speech Gestures: Discourse Analysis of Motion Events in Russian. Poster: Neglected Aspects of Motion-Event Description 2022, Kyoto University, Kyoto, Japan.
