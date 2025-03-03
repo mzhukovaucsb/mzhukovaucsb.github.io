@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 * U.S. National Science Foundation Innovation Corps Grant, Spring I Cohort (PI: Xifeng Yan; $50,000), Mar 2025
+* UC Senate Doctoral Student Travel Grant, Feb 2025
 * UCSB Individualized Professional Skills Grant Program Award for Google's Researh@ Summit, Oct 2024
 * Graduate Scholars Program Mentor Stipend, Oct 2024
 * Graduate Scholars Program Mentor Stipend, Oct 2023
