@@ -28,6 +28,7 @@ Mentoring
 
 Tutorials/Career Development Talks 
 ======
+* Yang X., Zhukova, M., Rosenblum L. (2025). LSA Webinar (members-only). Focused on internships for linguistics students. Online.
 * Zhukova, M. (2024). Getting an Internship and Using it to Boost Your Career. Panel Facilitator. Lingusitics Career Launch. Online.
 * Zhukova, M. (2024). Podcast "Linguistics Careercast" Episode on Internships. <a href="https://www.linguisticscareercast.com/podcast/episode-38-marina-zhukova/"> Linguistics Careercast </a> 
 * Johnston A., Zhukova, M. (2024). Securing an internship, contract work and part-time jobs during your degree program: A practical guide for linguistics students & faculty advisors. Organized session. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
