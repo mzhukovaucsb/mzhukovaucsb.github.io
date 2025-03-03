@@ -6,8 +6,9 @@ author_profile: true
 ---
 Peer Review
 ======
+* 27th Annual Conference on Language, Interaction and Social Organization (LISO)
 * ISGS 2022
-* CALCS 2023 
+* CALCS 2023, CALCS 2025
 * Language in Society
 * ICWSM 2024, ICWSM 2025
 * WAIL 2024
