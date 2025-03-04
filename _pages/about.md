@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Ph.D. in Linguistics: I recently defended my Ph.D. in Linguistics at UC Santa Barbara, where my research focused on digital communication, human-AI interaction, and inclusive language. 
+🎓 Ph.D. in Linguistics: I recently defended my dissertation at the UC Santa Barbara Department of Linguistics, where my research focused on digital communication, human-AI interaction, and inclusive language. 
 
-🎓 GPMP: I also earned a Graduate Program in Management Practice Certificate from UCSB’s College of Engineering, equipping me with expertise in business strategy, product management, entrepreneurship, and leadership—skills I’ve applied in both research and industry collaborations.
+🎓 GPMP: I earned a Graduate Program in Management Practice Certificate from UCSB’s College of Engineering, equipping me with expertise in business strategy, product management, entrepreneurship, and leadership—skills I’ve applied in both research and industry collaborations.
 
 🤖 ex-Amazon: I completed three internships at Amazon AGI (Alexa Entertainment Team) and was part of the winning team for the Amazon Alexa Prize SocialBot Grand Challenge 5 with GauchoChat, a conversational AI competitition.
 
 🔍 Google Fellow: I’ve been selected for multiple Google & Google Research programs, including: Research@NYC, Computer Science Research Mentorship Program, PhD Fellowship Summit, Product Inclusion & Equity Summit.
 
-💡 I’m excited to leverage my expertise in language, generative AI, and customer research to drive innovation and build impactful product solutions.
+💡 I’m excited to leverage my expertise in language, generative AI, and customer research to drive innovation and build impactful product solutions!
 
 **💼 Key Skills**:
 
