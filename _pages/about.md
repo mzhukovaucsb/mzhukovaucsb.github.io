@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Ph.D. in Linguistics: I recently defended my dissertation at the Department of Linguistics at UC Santa Barbara, where my research focused on digital communication, human-AI interaction, and inclusive language. 
+🎓 Ph.D. in Linguistics: I recently defended my dissertation at the Department of Linguistics, UC Santa Barbara, where my research focused on digital communication, human-AI interaction, and inclusive language. 
 
 🎓 GPMP: I earned a Graduate Program in Management Practice Certificate from UCSB’s College of Engineering, equipping me with expertise in business strategy, product management, entrepreneurship, and leadership—skills I’ve applied in both research and industry collaborations.
 
