@@ -52,8 +52,8 @@ Professional Development
 
 Skills
 ======
-* Expertise: Language, Generative AI, Customer Research
+* Research Expertise: human-AI interaction, mixed methods research, generative AI, ethical language use.
 * Programming: Python, R, JavaScript, Markdown, SQL, HTML, git, LaTeX.
 * Data skills: prompt engineering, data collection, annotation, processing and visualization, statistical analysis, experimental design, survey design, eye-tracking.
 * Project skills: project management, technical product management, quantitative & qualitative research design.
-* Languages: English (near native), Russian (native), French (fluent), Spanish (intermediate), Czech (intermediate), Hebrew (beginner).
+* Languages: fluent in English, Russian; intermediate in French, Spanish; beginner in Czech, Hebrew
