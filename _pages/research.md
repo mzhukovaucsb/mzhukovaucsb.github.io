@@ -8,8 +8,6 @@ author_profile: true
 Generative AI, Large Language Models, Human-AI Interaction
 ======
 * Winata, G. I., Hudi, F., Irawan, P. A., Anugraha, D., Putri, R. A., Wang, Y., ... Zhukova,M., ... & Ngo, C. W. (2024). WORLDCUISINES: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines. arXiv preprint arXiv:2410.12705. [accepted to NAACL 2025: Main Conference]
-* Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America.
-* Zhukova, M. (2024). Emoji Processing in Conversations Between GenZ Users and Chatbots: An Eye Tracking Study. Invited talk. UC Santa Barbara Department of Linguistics colloquium, Santa Barbara, CA, USA. 
 * Zhukova, M., Brehm, L., Todd, S. (2024). How Do GenZ Users Process Chatbot Memory Lapses? An Eye Tracking Study. Poster. CAMP6 (California Meeting on Psycholinguistics), Stanford University, Palo Alto, CA, USA. 
 * Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Poster. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Zhukova M. (2023). AI as a Research Participant: Tips, Tools, and Techniques. UX Magazine. 
@@ -24,6 +22,8 @@ Linguistic Code-Switching
 Perception and Interpretation of Emojis
 ======
 * Zhukova, M., & Herring, S. C. (2024). Benign or Toxic? Differences in Emoji Interpretation by Gender, Generation, and Emoji Type. Language@ Internet, 22(Special Issue), 74-108.
+* Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America.
+* Zhukova, M. (2024). Emoji Processing in Conversations Between GenZ Users and Chatbots: An Eye Tracking Study. Invited talk. UC Santa Barbara Department of Linguistics colloquium, Santa Barbara, CA, USA.
 * Zhukova, M. (2023). Drawing Parallels Between Emblems And Emoji: A Thumbs-up Case Study. Poster: 1st International Multimodal Communication Symposium (MMSYM), Pompeu Fabra University, Barcelona, Spain.
 * Zhukova, M. (2023). Emoji And Identity Perception. Invited talk: International Multimodal Communication Centre (IMCC), University of Oxford, Oxford, UK.
 * Zhukova, M. (2023). Exploring Legal Interpretation of Emoji. Invited talk: Visual Language Lab, Tilburg University, Tilburg, NL.
