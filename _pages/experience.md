@@ -15,6 +15,14 @@ Education
 
 Work & Research Experiences
 ======
+* University of California, Santa Barbara, Fall'21 - Spring'25
+  * Graduate Teaching Assistant, Department of Linguistics
+  * Courses: LING 15, LING 20, LING 70, LING 102, LING 110, LING 127
+
+* University of California, Santa Barbara, Fall'21 - Spring'25
+  * Graduate Student Researcher, CPLS Lab, TRILL Lab, PRPL Lab
+  * PIs: Simon Todd,Lal Zimman, Laurel Brehm
+ 
 * Amazon AGI, Summer'24
   * Knowledge Engineer Intern, Amazon Alexa
 
@@ -32,14 +40,6 @@ Work & Research Experiences
 * Amazon Alexa AI, Summer'22
   * Knowledge Engineer Intern, Amazon Alexa
 
-* University of California, Santa Barbara, Fall'21 - Spring'25
-  * Graduate Teaching Assistant, Department of Linguistics
-  * Courses: LING 15, LING 20, LING 70, LING 102, LING 110, LING 127
-
-* University of California, Santa Barbara, Fall'21 - Present
-  * Graduate Student Researcher, CPLS Lab, TRILL Lab, PRPL Lab
-  * PIs: Simon Todd,Lal Zimman, Laurel Brehm
-
 Professional Development
 ======
 * Research@NYC, Google Research, 2024
@@ -49,7 +49,6 @@ Professional Development
 * Grace Hopper Celebration 2022 Conference, 2022
 * Product Management for Linguists, Linguistics Career Launch & Google, 2021
 * Linguistics Career Launch, 2021
-
 
 Skills
 ======
