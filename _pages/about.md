@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🚀 About Me
+**🚀 About Me**
 
 🎓 Ph.D. in Linguistics: I recently defended my Ph.D. in Linguistics at UC Santa Barbara, where my research focused on digital communication, human-AI interaction, and inclusive language. I also earned a Graduate Program in Management Practice (GPMP) Certificate from UCSB’s College of Engineering, equipping me with expertise in business strategy, product management, entrepreneurship, and leadership—skills I’ve applied in both research and industry collaborations.
 
@@ -16,13 +16,17 @@ redirect_from:
 
 🔍 Google Fellow: I’ve been selected for multiple Google & Google Research programs, including: Research@NYC, Computer Science Research Mentorship Program, PhD Fellowship Summit, Product Inclusion & Equity Summit.
 
-💡 I’m dedicated to leveraging my expertise in language, generative AI, and customer research to drive innovation and build impactful AI-powered solutions.
+💡 I’m excited to leverage my expertise in language, generative AI, and customer research to drive innovation and build impactful product solutions.
 
-**Key Skills**:
+**💼 Key Skills**:
+
 🔹 AI & NLP: Human-AI Interaction, Prompt Engineering, LLM Fine-Tuning
+
 🔹 Research: Mixed-Methods Research (Quantitative & Qualitative), Experiment Design, User Studies
+
 🔹 Data Skills: Python, JavaScript, SQL, R, Large-Scale Data Processing & Visualization
-🔹 Leadership & Collaboration: Project Management,  Cross-functional Collaboration & Stakeholder Management
+
+🔹 Leadership & Collaboration: Project Management, Cross-functional Collaboration & Stakeholder Management
 
 **📢 Featured in** 
 
