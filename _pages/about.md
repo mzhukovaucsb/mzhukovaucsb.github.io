@@ -25,7 +25,7 @@ redirect_from:
 * Data Skills: Python, JavaScript, SQL, R, Large-Scale Data Processing & Visualization
 * Leadership & Collaboration: Project Management, Cross-functional Collaboration & Stakeholder Management
 
-**📢 Featured in: ** 
+**📢 Featured in:** 
 
 * 🎙️ <a href="https://www.linguisticscareercast.com/podcast/episode-38-marina-zhukova/"> Linguistics Careercast </a> (podcast episode)
 * 📝 <a href="https://onereach.ai/harnessing-conversational-ai-for-breakthroughs-in-academic-research/">Harnessing Conversational AI for Breakthroughs in Academic Research</a> (OneReach.ai)
