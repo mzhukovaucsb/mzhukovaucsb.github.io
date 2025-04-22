@@ -32,7 +32,6 @@ redirect_from:
 * 📚 <a href="https://www.amazon.science/alexa-prize/teams/gauchochat-2022"> GauchoChat Team </a> (Amazon Science)
 * 🧠 <a href="https://uxmag.com/articles/ai-as-a-research-participant-tips-tools-and-techniques"> AI as a Research Participant: Tips, Tools, and Techniques</a> (UX Magazine)
 
-**🚀 Actively seeking a full-time research-focused role starting June/July 2025 in Bay Area, San Francisco, or NYC — feel free to reach out!**
 
 
 
