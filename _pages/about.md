@@ -8,22 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Ph.D. in Linguistics: I recently defended my dissertation at the UC Santa Barbara, where my research focused on digital communication, human-AI interaction, and inclusive language. 
+👩🏼‍💻 I’m a mixed-methods researcher specializing in human-AI interaction, large language models, and digital communication, with a strong background in both qualitative and quantitative research methods. 
 
-🎓 GPMP: I earned a Graduate Program in Management Practice Certificate from UCSB’s College of Engineering, equipping me with expertise in business strategy, product management, and entrepreneurship.
+🤖 I completed three internships at Amazon AGI and won the Amazon Alexa Prize SocialBot Grand Challenge 5 as part of the GauchoChat team. I was also selected to attend several Google & Google Research events, including Research@NYC, the Computer Science Research Mentorship Program, the Ph.D. Fellowship Summit, and the Product Inclusion & Equity Summit.
 
-🤖 ex-Amazon: I completed three internships at Amazon AGI (Alexa Entertainment Team) and was part of GauchoChat, the winning team for the Amazon Alexa Prize SocialBot Grand Challenge 5, a conversational AI competition.
-
-🔍 Google Fellow: I’ve been selected for multiple Google & Google Research programs, including: Research@NYC, Computer Science Research Mentorship Program, PhD Fellowship Summit, Product Inclusion & Equity Summit.
-
-💡 I’m excited to leverage my expertise in language, generative AI, and research to drive innovation and build impactful product solutions!
-
-**💼 Key Skills**:
-
-* AI & NLP: Human-AI Interaction, Prompt Engineering, LLM Fine-Tuning
-* Research: Mixed-Methods Research (Quantitative & Qualitative), Experiment Design, User Studies
-* Data Skills: Python, SQL, R, Large-Scale Data Processing & Visualization
-* Leadership: Project Management, Cross-functional Collaboration & Stakeholder Management
+💡 I am dedicated to leveraging my expertise in language, generative AI, and user-centered research to drive impactful innovations in AI technologies. My goal is to contribute to the development of next-generation AI systems that are transparent, inclusive, and capable of fostering meaningful human-AI interactions.
 
 **📢 Featured in:** 
 
