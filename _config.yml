@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marina Zhukova"
+title                    : "Marina Zhukova, Ph.D."
 title_separator          : "-"
-name                     : &name "Marina Zhukova (She/Her)"
-description              : &description "Linguistics Ph.D., UC Santa Barbara "
+name                     : &name "Marina Zhukova, Ph.D. (She/Her)"
+description              : &description "Language Engineer, Microsoft AI, Copilot "
 url                      : https://mzhukovaucsb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mzhukovaucsb/academicpages.github.io"
