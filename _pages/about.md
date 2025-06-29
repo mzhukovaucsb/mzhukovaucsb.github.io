@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-* 🎙️ 
-
-
-🤖 I recently graduated with a Ph.D. in Linguistics from UC Santa Barbara and joined <a href="https://microsoft.ai"> Microsoft AI </a> as a Language Engineer, working for <a href="https://copilot.microsoft.com"> Copilot </a>. I am based in San Francisco. 
+🤖 I recently earned my Ph.D. in Linguistics from UC Santa Barbara and joined <a href="https://microsoft.ai"> Microsoft AI </a> as a Language Engineer on the <a href="https://copilot.microsoft.com"> Copilot </a> team. I'm currently based in San Francisco. 
 
 👩🏼‍💻 I’m a mixed-methods researcher specializing in human-AI interaction, large language models, and digital communication, with a strong background in both qualitative and quantitative research methods. I completed three internships at Amazon AGI and won the Amazon Alexa Prize SocialBot Grand Challenge 5 as part of the GauchoChat team. I was also selected to attend several Google & Google Research events, including Research@NYC, the Computer Science Research Mentorship Program, the Ph.D. Fellowship Summit, and the Product Inclusion & Equity Summit.
 
