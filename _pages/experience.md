@@ -15,6 +15,8 @@ Education
 
 Work & Research Experiences
 ======
+* Microsoft AI, San Francisco June 2025 - onwards!
+  * Language Engineer, Copilot
 * University of California, Santa Barbara, Fall'21 - Spring'25
   * Graduate Teaching Assistant, Department of Linguistics
   * Courses: LING 15, LING 20, LING 70, LING 102, LING 110, LING 127
