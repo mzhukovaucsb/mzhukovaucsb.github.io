@@ -4,23 +4,26 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-Generative AI, Large Language Models, Human-AI Interaction
+Conversational AI, Human-AI Interaction
 ======
-* Winata, G. I., Hudi, F., Irawan, P. A., Anugraha, D., Putri, R. A., Wang, Y., ... Zhukova,M., ... & Ngo, C. W. (2024). WORLDCUISINES: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines. arXiv preprint arXiv:2410.12705. [accepted to NAACL 2025: Main Conference]
+* Zhukova, M. (2025). Conventions in Digital Communication: A Linguistic Analysis of Emojis and Human-Computer Interactions. Doctoral Dissertation. University of California, Santa Barbara. 
 * Zhukova, M., Brehm, L., Todd, S. (2024). How Do GenZ Users Process Chatbot Memory Lapses? An Eye Tracking Study. Poster. CAMP6 (California Meeting on Psycholinguistics), Stanford University, Palo Alto, CA, USA. 
 * Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Poster. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Zhukova M. (2023). AI as a Research Participant: Tips, Tools, and Techniques. UX Magazine. 
 * Wang H., Wang W., Saini R., Zhukova M., Yan X. (2023). GauchoChat: Towards Proactive, Controllable, and Personalized Social Conversation. Amazon Science. In Alexa Prize SocialBot Grand Challenge 5 Proceedings.
 
-Linguistic Code-Switching
+Multilinguality and Code-Switching
 ======
+* Winata, G. I., Hudi, F., Irawan, P. A., Anugraha, D., Putri, R. A., Wang, Y., ... Zhukova,M., ... & Ngo, C. W. (2025). WORLDCUISINES: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics. 
+* Winata, G., Kar, S., Zhukova, M., Solorio, T., ... & Kuwanto, G. (2025). Proceedings of the 7th Workshop on Computational Approaches to Linguistic Code-Switching. In Proceedings of the 6th Workshop on Computational Approaches to Linguistic Code-Switching.
 * Winata, G., Kar, S., Zhukova, M., Solorio, T., Diab, M., Sitaram, S., ... & Bali, K. (2023). Proceedings of the 6th Workshop on Computational Approaches to Linguistic Code-Switching. In Proceedings of the 6th Workshop on Computational Approaches to Linguistic Code-Switching.
 * Kar, S., Winata, G., Zhukova, M. (2022). Code-Switching and Multilinguality NLP (BoF Session). Invited speaker: EMNLP 2022, Abu Dhabi, UAE.
 * Zhukova, M., Kor Chahine I., Uetova E. (2019). Some Trends in the Assimilation of Syntax in the French-Speaking Environment: on the Material of the RLC Corpus. Poster: ”Russian language in the multilingual world” Conference, HSE University, Moscow, Russia.
 
 Perception and Interpretation of Emojis
 ======
+* Zhukova, M., Xu, N., Wang, J., Brehm, L. (2026). Interpreting Emojis Literally and Nonliterally: A Community-Based Study of Children’s Pragmatic Development. Poster: CAMP[8] (California Meeting on Psycholinguistics). UC Davis, Davis, CA, USA. 
+* Zhukova, M. (2025). Conventions in Digital Communication: A Linguistic Analysis of Emojis and Human-Computer Interactions. Doctoral Dissertation. University of California, Santa Barbara. 
 * Zhukova, M., & Herring, S. C. (2024). Benign or Toxic? Differences in Emoji Interpretation by Gender, Generation, and Emoji Type. Language@ Internet, 22(Special Issue), 74-108.
 * Zhukova, M., Brehm, L. (2024). How Do GenZ Speakers Use and Process Emoji in Chatbot Conversations: An Eye-Tracking Study. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America.
 * Zhukova, M. (2024). Emoji Processing in Conversations Between GenZ Users and Chatbots: An Eye Tracking Study. Invited talk. UC Santa Barbara Department of Linguistics colloquium, Santa Barbara, CA, USA.
@@ -32,7 +35,7 @@ Perception and Interpretation of Emojis
 
 Inclusive Language
 ======
-* Bedin C., Benesh M., Zhukova, M., Zimman L. (2025). Expansive, intersectional… and quantitative?? Innovating critical approaches to gendered sociophonetic variation. International Gender and Langugae Association Conference 2025 (13IGALA) [accepted for a conference talk]
+* Bedin C., Benesh M., Zhukova, M., Zimman L. (2025). Expansive, intersectional… and quantitative?? Innovating critical approaches to gendered sociophonetic variation. Talk. International Gender and Langugae Association Conference 2025 (13IGALA). 
 * Bedin C., Benesh M., Zhukova, M., Zimman L. (2024). Current norms and best practices for collecting and representing sex/gender in linguistics: Towards ethical and inclusive methodologies. Proceedings of the 2024 Annual Meeting of the Lingustic Society of America. 
 * Bedin C., Benesh M., Zhukova, M., Zimman L. (2024).Current norms and best practices for collecting and representing sex/gender in linguistics: Towards ethical and inclusive methodologies. Talk. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
 * Bedin C., Benesh M., Conrod K., Zhukova, M., Zimman L. (2024). The gender question: Current best practices for asking about sex/gender in linguistic research. Organized session. 2024 Annual Meeting of the Lingustic Society of America. NYC, NY.
