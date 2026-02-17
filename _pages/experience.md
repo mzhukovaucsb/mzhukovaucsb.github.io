@@ -13,17 +13,21 @@ Education
 * UC Inter-Campus Exchange Program, University of California, Los Angeles, 2021
 * B.A. in Linguistics, HSE University, 2020
 
-Work & Research Experiences
+Work & Research Experience
 ======
-* Microsoft AI, San Francisco June 2025 - onwards!
-  * Language Engineer, Copilot
+* Microsoft AI, Mountain View, Feb 2026 - Current
+  * Member of Model Design Staff, MAI Superintelligence Team
+    
+* Microsoft AI, Mountain View, June 2025 - Feb 2026
+  * Language Engineer, Microsoft Copilot
+    
 * University of California, Santa Barbara, Fall'21 - Spring'25
   * Graduate Teaching Assistant, Department of Linguistics
   * Courses: LING 15, LING 20, LING 70, LING 102, LING 110, LING 127
-
+    
 * University of California, Santa Barbara, Fall'21 - Spring'25
   * Graduate Student Researcher, CPLS Lab, TRILL Lab, PRPL Lab
-  * PIs: Simon Todd,Lal Zimman, Laurel Brehm
+  * PIs: Simon Todd, Lal Zimman, Laurel Brehm
  
 * Amazon AGI, Summer'24
   * Knowledge Engineer Intern, Amazon Alexa
@@ -48,14 +52,13 @@ Professional Development
 * Product Inclusion & Equity Summit, Google, 2023
 * PhD Fellowship Summit, Google Research, 2023
 * Computer Science Research Mentorship Program, Google Research, 2023
-* Grace Hopper Celebration 2022 Conference, 2022
+* Grace Hopper Celebration Conference, 2022
 * Product Management for Linguists, Linguistics Career Launch & Google, 2021
 * Linguistics Career Launch, 2021
 
 Skills
 ======
-* Research Expertise: human-AI interaction, mixed methods research, generative AI, ethical language use.
-* Programming: Python, R, JavaScript, Markdown, SQL, HTML, git, LaTeX.
-* Data skills: prompt engineering, data collection, annotation, processing and visualization, statistical analysis, experimental design, survey design, eye-tracking.
-* Project skills: project management, technical product management, quantitative & qualitative research design.
+* Programming: Claude Code, Python, R, JavaScript, Markdown, SQL, HTML, git, LaTeX.
+* Data skills: prompt engineering; data collection, annotation, processing and visualization; statistical analysis; experimental design; survey design; eye-tracking
+* Project skills: technical program management, product management, quantitative & qualitative study design
 * Languages: fluent in English, Russian; intermediate in French, Spanish; beginner in Czech, Hebrew
