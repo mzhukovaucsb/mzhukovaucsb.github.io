@@ -12,7 +12,7 @@ author_profile: true
 * UC Senate Doctoral Student Travel Grant, Feb 2025
   
 **2024**
-* UCSB Individualized Professional Skills Grant Program Award for Google's Researh@ Summit, Oct 2024
+* UCSB Individualized Professional Skills Grant Program Award for Google's Research@ Summit, Oct 2024
 * Graduate Scholars Program Mentor Stipend, Oct 2024
   
 **2023**
@@ -34,7 +34,7 @@ author_profile: true
   
 **2021**
 * UCSB Department of Linguistics Professional Development Grant for Product Management for Linguists, Jun 2021
-* UCSB Individualized Professional Skills Grant Program Award for Lingusitics Career Launch bootcamp, May 2021
+* UCSB Individualized Professional Skills Grant Program Award for Linguistics Career Launch bootcamp, May 2021
   
 **2020**
 * UCSB Individualized Professional Skills Grant Program Award for ImaginePhD course, Oct 2020
