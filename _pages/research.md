@@ -14,7 +14,7 @@ Conversational AI, Human-AI Interaction
 
 Multilinguality and Code-Switching
 ======
-* Winata, G. I., Hudi, F., Irawan, P. A., Anugraha, D., Putri, R. A., Wang, Y., ... Zhukova,M., ... & Ngo, C. W. (2025). WORLDCUISINES: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics. 
+* Winata, G. I., Hudi, F., Irawan, P. A., Anugraha, D., Putri, R. A., Wang, Y., ... Zhukova,M., ... & Ngo, C. W. (2025). WorldCuisines: A massive-scale benchmark for multilingual and multicultural visual question answering on global cuisines. \textit{Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)}, 3242–3264. Albuquerque, NM: Association for Computational Linguistics.
 * Winata, G., Kar, S., Zhukova, M., Solorio, T., ... & Kuwanto, G. (2025). Proceedings of the 7th Workshop on Computational Approaches to Linguistic Code-Switching. In Proceedings of the 6th Workshop on Computational Approaches to Linguistic Code-Switching.
 * Winata, G., Kar, S., Zhukova, M., Solorio, T., Diab, M., Sitaram, S., ... & Bali, K. (2023). Proceedings of the 6th Workshop on Computational Approaches to Linguistic Code-Switching. In Proceedings of the 6th Workshop on Computational Approaches to Linguistic Code-Switching.
 * Kar, S., Winata, G., Zhukova, M. (2022). Code-Switching and Multilinguality NLP (BoF Session). Invited speaker: EMNLP 2022, Abu Dhabi, UAE.
