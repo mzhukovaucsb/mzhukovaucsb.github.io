@@ -18,7 +18,7 @@ Peer Review
 Service
 ======
 * Meta Oversight Board, Oct 2025
-  * Invited to a private expert roundtable on emoji-based algospeak and content moderation. Consulted on emojis and coded language for Meta content moderation.
+  * Invited to a private expert roundtable on emoji-based algospeak and content moderation to consult on emojis and coded language. <a href="https://www.oversightboard.com/news/stop-algospeak-including-emojis-used-for-hate-speech/"> Oversight Board Case</a>
 * UCSB Department of Linguistics, Sep 2024 - Jun 2025
   * Mentor
 * UCSB Department of Linguistics, Jan 2023
