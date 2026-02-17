@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marina Zhukova, Ph.D."
 title_separator          : "-"
 name                     : &name "Marina Zhukova, Ph.D. (She/Her)"
-description              : &description "Language Engineer, Microsoft AI, Copilot "
+description              : &description "Member of Model Design Staff, Microsoft AI, Superintelligence Team "
 url                      : https://mzhukovaucsb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mzhukovaucsb/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marina Zhukova, Ph.D."
   avatar           : "marina.png"
-  bio              : "Language Engineer, Microsoft AI, Copilot"
+  bio              : "Member of Model Design Stff, Microsoft AI, Superintelligence Team"
   location         : "San Francisco, CA (USA)"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
