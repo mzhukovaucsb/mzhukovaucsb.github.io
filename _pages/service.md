@@ -6,6 +6,7 @@ author_profile: true
 ---
 Peer Review
 ======
+* First Workshop on Linguistic Analysis for Health - HeaLing @ EACL 2026
 * 27th Annual Conference on Language, Interaction and Social Organization (LISO)
 * ISGS 2022
 * CALCS 2023, CALCS 2025
