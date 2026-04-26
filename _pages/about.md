@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-🧠 I design how frontier AI models behave.
+🧠 I design Microsoft in-house foundation models. 
 
-👩🏼‍💻 I'm a Member of Model Design Staff on <a href="https://microsoft.ai"> Microsoft AI </a> Superintelligence Team, working on model behavior and AI personality for Microsoft Copilot and our in-house foundation models. I hold a Ph.D. in Linguistics from UC Santa Barbara. I am based in San Francisco.
+👩🏼‍💻 I'm a Model Design Staff on <a href="https://microsoft.ai"> MAI </a> Superintelligence Teams. I hold a Ph.D. in Linguistics from UC Santa Barbara. I am based in San Francisco.
 
 🔬 My background spans linguistics, human-AI interaction, and large language models, with deep expertise in mixed-methods research.
 
