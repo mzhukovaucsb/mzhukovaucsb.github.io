@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marina Zhukova, Ph.D."
 title_separator          : "-"
 name                     : &name "Marina Zhukova, Ph.D. (She/Her)"
-description              : &description "Member of Model Design Staff, Microsoft AI, Superintelligence Team "
+description              : &description "Model Design Staff, MAI Superintelligence Team, Post-training "
 url                      : https://mzhukovaucsb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mzhukovaucsb/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marina Zhukova, Ph.D."
   avatar           : "marina.png"
-  bio              : "Member of Model Design Staff, Microsoft AI, Superintelligence Team"
+  bio              : "Model Design Staff, MAI Superintelligence Team, Post-training"
   location         : "San Francisco, CA (USA)"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ixJbJboAAAAJ&hl=en"
-  email            : "mzhukova@ucsb.edu"
+  email            : "marina.va.zhukova@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Marina-Zhukova-10"
   uri              :
   bitbucket        :
