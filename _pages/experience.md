@@ -15,11 +15,11 @@ Education
 
 Work & Research Experience
 ======
-* Microsoft AI, Mountain View, Feb 2026 - Current
-  * Member of Model Design Staff, MAI Superintelligence Team
+* Microsoft AI, Mountain View, Jan 2026 - Current
+  * Model Design Staff, MAI Superintelligence Team, Post-training
     
-* Microsoft AI, Mountain View, June 2025 - Feb 2026
-  * Language Engineer, Microsoft Copilot
+* Microsoft AI, Mountain View, June 2025 - Jan 2026
+  * Language Engineer, Microsoft AI, Copilot
     
 * University of California, Santa Barbara, Fall'21 - Spring'25
   * Graduate Teaching Assistant, Department of Linguistics
